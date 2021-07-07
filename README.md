@@ -8,4 +8,4 @@ As I have a basic knowledge about the python programming but not having a good c
 Beginner : I'll first learn python language and In  Intermediate : I'll learn the Machine Learning concepts .
 
 
-Day 1: Beginner-python-variables, Datasets, Typecasting, Conditional statements, 
+Day 1: Beginner-python-variables, Datasets, Typecasting, Conditional statements, Loops with a e-commerce example
